@@ -4,3 +4,19 @@ A student information management system (SIS) is a digital solution for all your
 With the help of a student management system, you can streamline your administrative and academic activities error-free!
 The main purpose of an SIS is to streamline major activities like student information and make it accessible to teachers, higher education campus leaders, students, faculty, and academicians so that they have accurate data in their hands whenever they need it.
 Managing an educational institute needs you to be extremely good at planning. An SIS will help you in automating your planning process effortlessly.
+
+
+SOFTWARE REQUIREMENTS
+• Frontend- HTML, CSS, Java Script, Bootstrap
+• Backend-Python flask (Python 3.7) , SQLAlchemy,
+• Operating System: Windows 10
+• Google Chrome/Internet Explorer
+• XAMPP (V ersion-3.7)
+• Python main editor (user interface): PyCharm Community
+• workspace editor: Sublime text 3
+HARDWARE REQUIREMENTS
+• Computer with a 1.1 GHz or faster processor
+• Minimum 2GB of RAM or more GB of available hard-disk space
+• 5400 RPM hard drive
+• 1366 × 768 or higher-resolution display
+• DVD-ROM drive
